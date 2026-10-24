@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://free-as-bird.github.io/blog/"
+baseurl = "https://bird.lovie.me/blog/"
 locale  = "zh-cn"
 title   = "(●'x'●) 的博客"
 
