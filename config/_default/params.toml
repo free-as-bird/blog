@@ -18,8 +18,8 @@ SortBy              = "default"
     lastUpdated = ":date_full"
 
 [sidebar]
-    emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    emoji    = "😎"
+    subtitle = "年年岁岁花相似，岁岁年年人不同."
     avatar   = "img/avatar.png"
 
 [article]
@@ -28,7 +28,7 @@ SortBy              = "default"
     readingTime   = true
 
     [article.license]
-        enabled = true
+        enabled = false
         default = "Licensed under CC BY-NC-SA 4.0"
 
 [widgets]

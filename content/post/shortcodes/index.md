@@ -3,6 +3,8 @@ title: 大话西游片段
 description: 爱上一个讨厌的人？
 date: 2026-10-24 23:28:00+0000
 image: cover.jpg
+categories:
+    - movie
 ---
 
 ## 《大话西游之月光宝盒》
@@ -29,4 +31,4 @@ image: cover.jpg
 
 -----
 
-> Photo by [Codioful](https://unsplash.com/@codioful) on [Unsplash](https://unsplash.com/photos/WDSN62Qdxuk)
+> 封面照片来自 [知乎](https://zhuanlan.zhihu.com/p/562879360)

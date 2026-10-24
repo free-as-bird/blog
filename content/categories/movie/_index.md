@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 电影
+description: 国内外电影片段、台词……
 image:
 
 # Badge style
