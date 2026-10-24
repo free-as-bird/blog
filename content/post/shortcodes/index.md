@@ -1,37 +1,31 @@
 ---
-title: Shortcodes
-description: Useful shortcodes that can be used in Markdown
-date: 2023-08-25 00:00:00+0000
+title: 大话西游片段
+description: 爱上一个讨厌的人？
+date: 2026-10-24 23:28:00+0000
 image: cover.jpg
 ---
 
-For more details, check out the [documentation](https://stack.jimmycai.com/writing/shortcodes).
+## 《大话西游之月光宝盒》
 
-## Bilibili video
+{{< video src="./dhxy.mp4" >}}
 
-{{< bilibili "BV1d4411N7zD" >}}
+有一天当你发觉你爱上一个你讨厌的人，这段感情才是最要命的!
 
-## Tencent video
+可是我怎么会爱上一个我讨厌的人呢?请你给我一个理由好不好?拜托!
 
-{{< tencent "g0014r3khdw" >}}
+爱一个人需要理由吗?
 
-## YouTube video
+不需要吗?
 
-{{< youtube "0qwALOOvUik" >}}
+需要吗?
 
-## Generic video file
+不需要吗?
 
-{{< video "https://www.w3schools.com/tags/movie.mp4" >}}
+需要吗?
 
-## GitLab
+不需要吗?
 
-{{< gitlab 2589724 >}}
-
-## Quote
-
-{{< quote author="A famous person" source="The book they wrote" url="https://en.wikipedia.org/wiki/Book">}}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-{{< /quote >}}
+哎，我是跟你研究研究嘛，干嘛那么认真呢?需要吗?
 
 -----
 
