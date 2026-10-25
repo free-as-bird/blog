@@ -3,17 +3,19 @@ title: "大话西游片段"
 description: 爱上一个讨厌的人？
 date: 2026-10-24 23:28:00+08:00
 toc: false
-image: cover.jpg
+cover:
+    src: cover.jpg
+    style: contain
 categories:
     - movie
 ---
 
 ## 《大话西游之月光宝盒》
 
-# 片段
+### 片段
 {{< video src="./dhxy.mp4" >}}
 
-# 台词
+### 台词
 有一天当你发觉你爱上一个你讨厌的人，这段感情才是最要命的!<br>
 可是我怎么会爱上一个我讨厌的人呢?请你给我一个理由好不好?拜托!<br>
 爱一个人需要理由吗?<br>
