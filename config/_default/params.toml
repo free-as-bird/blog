@@ -25,7 +25,7 @@ SortBy              = "default"
 [article]
     headingAnchor = false
     math          = false
-    readingTime   = true
+    readingTime   = false
 
     [article.license]
         enabled = false
@@ -50,7 +50,7 @@ SortBy              = "default"
 
 ## Comments
 [comments]
-    enabled  = true
+    enabled  = false
     provider = "disqus"
 
     # See all the available configurations at https://github.com/CaiJimmy/hugo-theme-stack/blob/master/config/_default/params.toml
