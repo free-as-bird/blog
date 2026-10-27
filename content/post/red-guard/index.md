@@ -3,6 +3,8 @@ title: The Girls Red Guard Dancers
 description: 《末代皇帝》片段
 date: 2026-10-27 21:00:00+08:00
 toc: false
+tags: 
+    - 毛主席
 image: cover.png
 ---
 

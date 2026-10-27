@@ -3,7 +3,7 @@ title: "大话西游片段"
 description: 爱上一个讨厌的人？
 date: 2026-10-24 23:28:00+08:00
 toc: false
-image: cover.jpg
+image: cover.png
 tags: 
     - 情感
 categories:
