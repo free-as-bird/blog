@@ -3,6 +3,8 @@ title: "歌曲中的数学问题"
 description: 两者到底是什么关系呢？
 date: 2026-10-26 17:00:00+08:00
 image: cover.jpg
+tags: 
+    - 数学
 categories:
     - thought
 ---
