@@ -1,6 +1,6 @@
 ---
 title: The Girls Red Guard Dancers
-description: 《末代皇帝》片段
+description: 管理所所长反被革命群众管教
 date: 2026-10-27 21:00:00+08:00
 toc: false
 tags: 
@@ -46,3 +46,6 @@ image: cover.png
 杀！杀！杀──嘿！
 
 注：“/”表示有多个版本。
+
+-----
+> 视频节选自《末代皇帝》
