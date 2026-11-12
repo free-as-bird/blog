@@ -7,7 +7,7 @@ image: cover.jpg
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-欢迎来到我的新博客，模板 [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter) 算不上精美但也不简陋，优势就是配置起来非常方便，对于一个创建网页方面的小白来说。
+欢迎来到我的博客，模板 [hugo-theme-stack-stater](https://github.com/CaiJimmy/hugo-theme-stack-starter) 算不上精美但也不简陋，优势就是配置起来非常方便，对于一个创建网页方面的小白来说。
 
 我会不定期在上面发各种各样的东西，说不定还挺有用的😜
 
