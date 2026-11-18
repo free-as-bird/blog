@@ -44,7 +44,7 @@ categories:
 Deepseek 给的专业解释：多种定位技术（GPS、Wi-Fi/基站、传感器）在强制重启后，各自的“启动时间线”不一致所导致的短暂混乱。系统可能先返回了缓存的旧位置或过时的网络定位结果，同时GPS和传感器还在后台努力“找回状态”。
 
 ## 虚拟定位法
-所谓苹果手机（iOS）的专属福利，一般要搭配电脑使用，除非 iPhone 已经越狱。Android 理论上可行，但可能要 Root（v.获取最高权限）你的手机，或者自行寻找无需 root 的工具。
+所谓苹果手机（iOS）的专属福利，一般要搭配电脑，除非 iPhone 已经越狱。Android 理论上可行，但可能要 Root（v.获取最高权限）你的手机，或者自行寻找无需 root 的工具。
 
 ### 操作方法（iOS）
 [iOSRealRun-cli](https://github.com/sijunpeng123/iOSRealRun-cli)<br>
@@ -60,7 +60,8 @@ Deepseek 给的专业解释：多种定位技术（GPS、Wi-Fi/基站、传感�
 Apple 官方为开发者和测试场景预留了“位置模拟”的合法通道，一些工具可以利用 iOS 系统开发者服务，通过 USB 或本机配对的方式，向系统发送模拟坐标指令，从而让系统向所有 App 报告一个虚假位置。这种方式不需要越狱，也不需要安装证书，但通常需要连接电脑或开启开发者模式。
 
 ## 一键式方法
-Tired of the iOS lock-in of RealRun? Then switch to NeverRun.<br>
+Tired of the iOS lock-in of RealRun? Then switch to NeverRun.
+
 使用此网站会把浙大体艺挤下线，下次打开浙大体艺需要重新登录，反之亦然。<br>
 如果提交时提示 authentication failed （验证失败），就需要点击 [manage](https://run.alabtnt.cn/#/manage) ，再点击 **Refetch token** 按钮即可。
 ![Image 5](5.png)
@@ -86,7 +87,7 @@ Tired of the iOS lock-in of RealRun? Then switch to NeverRun.<br>
 7、如要自定义运动模式、运动距离、跑步配速等参数请勾选 **Customized run**（推荐**长期使用**此工具者修改其中参数以降低风险）<br>
 Ignore prejudgement fail 不建议勾选<br>
 ![Image 4](4.png)
-8、点击下方 **Submit** 按钮，只有界面上所有项目都通过且最后显示成功才算数，如果失败了可以刷新网页，修复问题再重新提交。
+8、点击下方 **Submit** 按钮，只有界面上所有项目都通过且最后显示成功才算数，如果失败了可以刷新网页，修复问题再提交同一个 sportId。
 
 ### 原理解释
 自行阅读 https://run.alabtnt.cn/#/about
@@ -95,5 +96,5 @@ Ignore prejudgement fail 不建议勾选<br>
 众所周知，校园跑要求10分钟内跑完一公里，三公里就是30分钟以内完成。你获取 sportId 的时间就是开始“跑步”的时间，30分钟之后提交就可以保证在“跑”完之前跑步记录没有被上传，防止被系统判断为无效。
 
 ## 暂停法
-在浙大体艺跑步过程中按屏幕右侧暂停键，可以获得1分钟时间，期间计时暂停，定位也不会动，但人可以继续跑。在继续运动的一两秒内，你会收获暂停前与暂停后两点的连线这么长的路程。<br>
+在浙大体艺跑步过程中按屏幕右侧暂停键，可以获得1分钟时间，期间计时暂停，定位也不会动，但人可以继续跑。在继续运动的一两秒内，你会收获一段暂停前与暂停后两点的连线这么长的路程。<br>
 一次暂停结束后可以再次暂停。暂停法搭配其他方法效果更好，也可以用于应急。
