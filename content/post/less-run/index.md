@@ -1,21 +1,22 @@
 ---
 title: 好好校园跑🤐
-description: 锻炼身体很重要的哦
+description: 锻炼身体很重要的哦！
 slug: run
 date: 2026-11-12 17:00:00+08:00
 tags: 
     - 科技
+    - 划水
 categories:
     - living
 ---
 
-考虑到大家课业繁重，学无余力，而且校园跑次数挺多的，还是分享几个“好好”完成校园跑的方法。
+积极参加校园跑是锻炼身体很好的方式，考虑到大家课业繁重，学无余力，而且跑步次数要求挺高，还是分享几个“好好”完成校园跑的方法。
 
 # 免责声明
 为进一步提高锻炼的实效性，切实提高学生体质健康水平，倡导求是诚信锻炼，严禁骑自行车替代跑步锻炼等违规行为。自本办法实施始，将对不诚信锻炼行为予以严肃处理。<br>
 **第1次被认定违规锻炼的，扣除课外锻炼次数3次。第2次被认定违规锻炼的，扣除课外锻炼次数6次。第3次被认定违规锻炼的，本学期体育课成绩认定为不及格**。对被认定的不诚信锻炼行为，可在浙大体艺App后台进行申诉。————浙大体艺《考核标准》
 
-**重要的事情说在前面**
+**最重要的事情说在前面**
 
 **选择使用了非官方途径，就自愿承担相应的风险**！！！<br>
 **选择使用了非官方途径，就自愿承担相应的风险**！！！<br>
@@ -51,7 +52,7 @@ Deepseek 给的专业解释：多种定位技术（GPS、Wi-Fi/基站、传感�
 [EdgeRunners](https://github.com/simymuero/EdgeRunners)<br>
 [vloc 虚拟定位](https://github.com/free-as-bird/blog/releases/tag/volc)<br>
 [iOSRealRun-cli-18](https://github.com/BiancoChiu/iOSRealRun-cli-18)<br>
-爱思助手……
+各种苹果助手……
 
 此类工具还有很多，大概率要打开 iOS 的开发者模式，这里仅列举了几个，可用性与 iOS 版本相关。
 
@@ -59,7 +60,10 @@ Deepseek 给的专业解释：多种定位技术（GPS、Wi-Fi/基站、传感�
 Apple 官方为开发者和测试场景预留了“位置模拟”的合法通道，一些工具可以利用 iOS 系统开发者服务，通过 USB 或本机配对的方式，向系统发送模拟坐标指令，从而让系统向所有 App 报告一个虚假位置。这种方式不需要越狱，也不需要安装证书，但通常需要连接电脑或开启开发者模式。
 
 ## 一键式方法
-Tired of the iOS lock-in of RealRun? Then switch to NeverRun.
+Tired of the iOS lock-in of RealRun? Then switch to NeverRun.<br>
+使用此网站会把浙大体艺挤下线，下次打开浙大体艺需要重新登录，反之亦然。<br>
+如果提交时提示 authentication failed （验证失败），就需要点击 [manage](https://run.alabtnt.cn/#/manage) ，再点击 **Refetch token** 按钮即可。
+![Image 5](5.png)
 ### 操作方法
 1、打开 [NeverRun](https://run.alabtnt.cn/#/first-time) 网站<br>
 2、在 **ZJU Username** 框里输入自己浙大通行证的账号（就是学号），在 **Password** 框里输入浙大通行证的的密码，完成后点击 **Save** 按钮<br>
@@ -76,10 +80,13 @@ Tired of the iOS lock-in of RealRun? Then switch to NeverRun.
 4、在 **Get sportId** 栏目下点击 **Get sportId** 按钮，耐心等待 sportId 获取成功<br>
 ![Image 1](1.png)
 ![Image 2](3.png)
-5、等待30分钟左右,期间可以离开浏览器，但**不要**清理浏览数据，不然要重新登录，而且前面获取的 ID 会丢失<br>
-6、切换到 **Submit sport** 栏目，如果为女生请勾选 **我是女生**，如果想要自定义跑步速度等参数请勾选 Customized run（没必要）<br>
+5、等待30分钟左右,期间可以离开/退出浏览器，但**不要**清理浏览数据，不然要重新登录，而且前面获取的 sportId 会丢失<br>
+6、切换到 **Submit sport** 栏目，如果为女生请勾选 **我是女生**<br>
 ![Image 3](2.png)
-7、点击下方 **Submit** 按钮
+7、如要自定义运动模式、运动距离、跑步配速等参数请勾选 **Customized run**（推荐**长期使用**此工具者修改其中参数以降低风险）<br>
+Ignore prejudgement fail 不建议勾选<br>
+![Image 4](4.png)
+8、点击下方 **Submit** 按钮，只有界面上所有项目都通过且最后显示成功才算数，如果失败了可以刷新网页，修复问题再重新提交。
 
 ### 原理解释
 自行阅读 https://run.alabtnt.cn/#/about
